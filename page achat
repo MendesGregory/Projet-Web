@@ -21,7 +21,6 @@
   <style>
 
       
-
       
 
       /* Remove the navbar's default rounded borders and increase the bottom margin */ 
@@ -157,21 +156,35 @@
 	<ul>
 		<h4>
 			<button type="button" data-toggle="collapse">
-				<li><a href="#">Ferraille ou Trésor</a></li>
+				<li><a href="#Fer">Ferraille ou Trésor</a></li>
 			</button><br>
 
 			<button type="button" data-toggle="collapse">
-				<li><a href="#">Bon pour le Musée</a></li>
+				<li><a href="#Musée">Bon pour le Musée</a></li>
 			</button><br>
 
 			<button type="button" data-toggle="collapse">
-				<li><a href="#">Accessoire VIP</a></li> 
+				<li><a href="Accessoire">Accessoire VIP</a></li> 
 			</button><br>		
 		</h4>	
 	</ul>
 		
 	</p>
 </div>
+
+<p>
+	<h2 id="Fer">Les items de feraille... ou les Trésors</h2>
+</p><br>
+
+<p>
+	<h2 id="Musée">Les items parfaits pour les musées et les collectioneurs...</h2>
+</p><br>
+
+<p>
+	<h2 id="Accessoire"> Et les accessoires VIP!</h2>
+</p><br>
+
+
 
 </body>
 </html> 
